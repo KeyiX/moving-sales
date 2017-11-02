@@ -18,8 +18,8 @@
     - Speaker：[Cyber Acoustics CA-2026](https://www.newegg.com/Product/Product.aspx?Item=N82E16836150102)
 1. Computer Chair: [DXRACER OH/FH08/NW](https://www.dxracer.com/us/en-us/product/1/gaming_chairs/formula_series/oh-fh08-nw/) - $100
 1. Computer Desk - $80
-    Color：http://www.ikea.com/us/en/catalog/products/S19006337/
-    Size：http://www.ikea.com/us/en/catalog/products/S49022538/
+    - Color：http://www.ikea.com/us/en/catalog/products/S19006337/
+    - Size：http://www.ikea.com/us/en/catalog/products/S49022538/
 1. [Queen Size Memory Foam Mattress(Firm)](http://www.ikea.com/us/en/catalog/products/70272403/) - $100
     - Complimentary Queen Size Box
     - Available starting end of November
