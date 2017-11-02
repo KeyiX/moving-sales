@@ -8,7 +8,7 @@
 1. Desktop Computer (Hard Drives NOT Included) - $500
     - CPU：[Intel i5-6500](https://www.newegg.com/Product/Product.aspx?Item=N82E16819117563&cm_re=intel_i5-6500-_-19-117-563-_-Product)
     - Motherboard: [Gigabyte GA-Z170MX-Gaming 5](https://www.newegg.com/Product/Product.aspx?Item=9SIAD6H6K28103&cm_re=gigabyte_z170mx-_-9SIAD6H6K28103-_-Product)
-    - Graphic Card: [ASUS GeForce GTX 970](https://www.newegg.com/Product/Product.aspx?Item=N82E16814121926)
+    - Graphic Card: [ASUS GeForce GTX 970 TURBO-GTX970-OC-4GD5](https://www.amazon.com/Asus-TURBO-GTX970-OC-4GD5-ASUS-Graphics-Cards/dp/B00WHJEK1M/ref=sr_1_3?ie=UTF8&qid=1509590227&sr=8-3&keywords=asus+gtx+970&dpID=51cy8KH0KAL&preST=_SY300_QL70_&dpSrc=srch)
     - Monitor: [BenQ GW2765HT 27" 1440p IPS Monitor](https://www.newegg.com/Product/Product.aspx?Item=N82E16824014383&cm_re=benq_gw2765ht-_-24-014-383-_-Product)
     - Memory: [CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin DDR4](https://www.newegg.com/Product/Product.aspx?Item=N82E16820233832)
     - Case：[DIYPC Cuboid-G](http://www.mydiypcusa.com/products/cuboid-g.html)
