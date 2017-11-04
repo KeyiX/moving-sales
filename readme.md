@@ -5,6 +5,7 @@
     - Mileage: 20,500 miles
     - Technology Package
     - Available starting end of November
+<strike>
 1. Desktop Computer (Hard Drives NOT Included) - $500
     - CPU：[Intel i5-6500](https://www.newegg.com/Product/Product.aspx?Item=N82E16819117563&cm_re=intel_i5-6500-_-19-117-563-_-Product)
     - Motherboard: [Gigabyte GA-Z170MX-Gaming 5](https://www.newegg.com/Product/Product.aspx?Item=9SIAD6H6K28103&cm_re=gigabyte_z170mx-_-9SIAD6H6K28103-_-Product)
@@ -16,6 +17,7 @@
     - Wireless Adapter：[TP-LINK TL-WDN4800](https://www.newegg.com/Product/Product.aspx?Item=9SIA4RE5N65038&cm_re=tplink_wireless_adapter-_-0XM-001R-000A6-_-Product)
     - Power Supply：[Segotep GP600P 80PLUS Platinum](http://en.segotep.cn/product_show.aspx?id=80&action=Specifications#dark)
     - Speaker：[Cyber Acoustics CA-2026](https://www.newegg.com/Product/Product.aspx?Item=N82E16836150102)
+</strike>
 1. Computer Chair: [DXRACER OH/FH08/NW](https://www.dxracer.com/us/en-us/product/1/gaming_chairs/formula_series/oh-fh08-nw/) - $100
 1. Computer Desk - $80
     - Color：http://www.ikea.com/us/en/catalog/products/S19006337/
