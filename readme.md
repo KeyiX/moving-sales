@@ -1,6 +1,6 @@
 # Things On Sale in St. Louis, MO. Text 217-417-9691
 
-1. [Mazda CX-5 AWD Grand Touring 2016](images/2016_CX-5_Features_Specs.pdf) - $24,000
+1. [Mazda CX-5 AWD Grand Touring 2016](images/2016_CX-5_Features_Specs.pdf) - $500
     - Color: Deep crystal blue
     - Mileage: 20,500 miles
     - Technology Package
